@@ -1,0 +1,1 @@
+// Make a GetFeaturedPosts graphql call
